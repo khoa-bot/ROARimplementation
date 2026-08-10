@@ -8,7 +8,7 @@ Travelling Repairman Problem (TRP / Minimum Latency Problem) introduced in:
 
 This folder holds **original code** written for the paper — it is not adapted from any third-party
 codebase. The only external material is the instance data (see [Instances](#instances)).
-
+IMPORTANT: The programs contain multiple artefacts and comment from the initial draft versions. Ignore dead code (not executed in main) and strange comment.
 ---
 
 ## 1. Contents
