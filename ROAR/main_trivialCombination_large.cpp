@@ -1,4 +1,4 @@
-// Name: Nguyen Hoang Dang Khoa
+
 // MODIFIED: Sequential LNS (Large Neighborhood Search) for TRP
 // FIX: Converted from 5-Way Swarm to purely Sequential execution (Worker 0 only).
 // FIX: Epochs are now tracked by K full iterations rather than time intervals.
